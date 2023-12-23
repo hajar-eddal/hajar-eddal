@@ -1,4 +1,3 @@
-[![MasterHead](https://camo.githubusercontent.com/0177efce0facdd611719dbe1e94af2a1ddbd2ac0e78304f97608a6a3b25c765a/68747470733a2f2f7777772e63617265657267756964652e636f6d2f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032302f30332f67697068792d372e676966)](https://hajar-eddal.io)
 <h1 align="center">Hi 👋, I'm EDDAL Hajar</h1>
 <h3 align="center">Data Scientist |ML Wizard |AI Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/40c6c5d9ac1c62d554de0b9b7be4beadb207816b0e42f8dc2fed05b9e7561f70/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a7164415731546a434e353768316c6275757a766368672e676966">
