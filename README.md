@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm EDDAL Hajar</h1>
 <h3 align="center">Data Scientist |ML Wizard |AI Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 🦾 I’m looking to Collaborate on **groundbreaking projects**
 
